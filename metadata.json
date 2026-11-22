@@ -1,0 +1,6 @@
+{
+  "name": "FolioRAG",
+  "description": "Engineering and AI architecture RAG document assistant with persistent vector search, Gemini embeddings, and inline citation inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
